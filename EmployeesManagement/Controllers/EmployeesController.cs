@@ -7,5 +7,9 @@ public IActionResult Index()
 {
 return View();
 }
+public IActionResult Sobre()
+{
+return View();
+}
 }
 }
