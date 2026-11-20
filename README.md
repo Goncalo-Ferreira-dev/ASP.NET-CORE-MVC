@@ -3,3 +3,5 @@
 docker compose up -d
 
 dotnet run
+
+dotnet watch run
